@@ -1,3 +1,5 @@
+
+```sql
 CREATE PROCEDURE [dbo].[TEST_STORED_PROCEDURE]
 @wggfft_hmmhhyu char(2),
 @wggfft_ggttggtgttgtghhe char(15),
@@ -307,3 +309,5 @@ If @wggfft_feddrred_sactep = 22
 Begin
 	select	'ggfft_hmmhhyu',' zzxxej_nombre'
 End
+
+```
